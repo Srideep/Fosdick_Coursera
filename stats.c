@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file stats.c 
+ * @brief Implementation file for statistical analytics
  *
- * <Add Extended Description Here>
+ * Implements all the functions declared in stats.h
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author Srideep Maulik 
+ * @date 11-24-2025
  *
  */
 
@@ -41,3 +41,23 @@ void main() {
 }
 
 /* Add other Implementation File Code Here */
+void print_statistics(unsigned char *data, unsigned int size)
+{}
+
+void print_array(unsigned char *data, unsigned int size)
+{}
+
+unsigned char find_median(unsigned char *data, unsigned int size)
+{}
+
+unsigned char find_mean(unsigned char *data, unsigned int size)
+{}
+
+unsigned char find_maximum(unsigned char *data, unsigned int size)
+{}
+
+unsigned char find_minimum(unsigned char *data, unsigned int size)
+{}
+
+void sort_array(unsigned char *data, unsigned int size)
+{}
